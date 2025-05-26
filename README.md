@@ -42,3 +42,11 @@ order or sort data of our dataset by using syntax
 df.orderby("conflicts_over_social_media",ascending=true).show() after using this syntax the data get sorted in ascending order.
           
 
+
+**Output**
+
+
+![Image](https://github.com/user-attachments/assets/4caf2269-41d9-47ab-ac83-1165f4dcd5cd)
+![Image](https://github.com/user-attachments/assets/b8841aa1-26e3-424e-9650-411f5323aa71)
+![Image](https://github.com/user-attachments/assets/76528e4e-5be7-4842-831b-facf64230dea)
+![Image](https://github.com/user-attachments/assets/81917704-43cd-4df1-baa0-dbb8813b0b5c)
